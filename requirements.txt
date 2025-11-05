@@ -1,0 +1,6 @@
+torch
+scikit-learn
+numpy
+pandas
+tqdm
+nfl_data_py

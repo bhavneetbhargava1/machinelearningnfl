@@ -1,0 +1,4 @@
+Dataset was found in Kaggle.
+Dataset describes weather conditions found in games
+
+link: https://www.kaggle.com/datasets/tombliss/weather-data

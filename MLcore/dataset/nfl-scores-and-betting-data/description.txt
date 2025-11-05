@@ -1,0 +1,6 @@
+Dataset was found in Kaggle.
+Dataset describes NFL game results with betting odds information since 1979.
+
+The R file may contain some useful information, if not then will be deleted in future pushes.
+
+link: https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data

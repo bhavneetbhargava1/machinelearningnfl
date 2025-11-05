@@ -1,0 +1,39 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.whl
+
+# Pytest
+.pytest_cache/
+
+# Mypy
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs / editors
+.vscode/
+.idea/
+
+# Logs and OS files
+*.log
+.DS_Store
+
+# Optional: keep local config out
+config.ini
+
+MLcore/dataset/play-by-play/NFL Play by Play 2009-2018 (v5).csv
