@@ -1,0 +1,2 @@
+# machinelearningnfl
+Predict NFL game winners using machine learning and Vegas betting data. Combines team stats, Elo ratings, weather, and spreads to find when the market gets it wrong—revealing data-driven edges in real-world sports outcomes.
