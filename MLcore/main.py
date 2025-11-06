@@ -2,7 +2,8 @@ import nfl_data_py as nfl
 import pandas as pd
 import os
 
-pbp = nfl.import_pbp_data([2018, 2019, 2020, 2021, 2022, 2023, 2024])
+pbp = nfl.import_pbp_data([2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025])
+schedule = nfl.import_schedules([2025])
 
 file_directory = 'dataset/nfl-scores-and-betting-data'
 
@@ -14,3 +15,9 @@ for file in os.listdir(file_directory):
 
 print('PBP DataFrame columns:', pbp.columns.tolist())
 print('Betting DataFrame columns:', betting_df.columns.tolist())
+
+givenPBP_columns = set(pbp.columns)
+betting_columns = set(betting_df.columns)
+
+common_columns = givenPBP_columns & betting_columns
+print('Common columns between PBP and Betting DataFrames:', common_columns)
