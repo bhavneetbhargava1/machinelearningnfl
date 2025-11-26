@@ -1,0 +1,5 @@
+ranker,name_display,age,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+1,Jaxson Dart,22,QB,9,7,2-5-0,128,204,62.7,1417,10,4.9,3,1.5,62,41.8,44,6.9,7.26,11.1,157.4,93.5,64.7,21,83,9.33,5.93,6.22,0,0,
+2,Russell Wilson,37,QB,6,3,0-3-0,69,119,58.0,831,3,2.5,3,2.5,32,38.0,52,7.0,6.35,12.0,138.5,77.4,27.3,10,66,7.75,5.93,5.35,0,0,
+3,Jameis Winston,31,QB,2,2,0-2-0,37,65,56.9,567,2,3.1,2,3.1,25,47.1,42,8.7,7.95,15.3,283.5,83.3,74.4,3,11,4.41,8.18,7.44,0,0,
+4,Gunner Olszewski,29,WR,12,0,,1,1,100.0,33,1,100.0,0,0.0,1,100.0,33,33.0,53.00,33.0,2.8,158.3,100.0,0,0,0.00,33.00,53.00,0,0,

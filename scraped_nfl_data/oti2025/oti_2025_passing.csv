@@ -1,0 +1,2 @@
+ranker,name_display,age,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+1,Cam Ward,23,QB,11,11,1-10-0,222,374,59.4,2210,7,1.9,6,1.6,110,38.9,47,5.9,5.56,10.0,200.9,75.7,33.2,45,342,10.74,4.46,4.15,1,1,

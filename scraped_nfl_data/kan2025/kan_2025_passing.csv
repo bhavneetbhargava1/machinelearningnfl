@@ -1,0 +1,2 @@
+ranker,name_display,age,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+1,Patrick Mahomes,30,QB,11,11,6-5-0,262,407,64.4,2977,18,4.4,7,1.7,145,49.4,61,7.3,7.43,11.4,270.6,93.8,71.9,24,142,5.57,6.58,6.68,1,1,

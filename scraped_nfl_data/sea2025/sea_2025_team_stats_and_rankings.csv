@@ -1,0 +1,5 @@
+header_tot_off_tgl,header_pass,header_rush,header_penalties,averages,player,points,total_yards,plays_offense,yds_per_play_offense,turnovers,fumbles_lost,first_down,pass_cmp,pass_att,pass_yds,pass_td,pass_int,pass_net_yds_per_att,pass_fd,rush_att,rush_yds,rush_td,rush_yds_per_att,rush_fd,penalties,penalties_yds,pen_fd,drives,score_pct,turnover_pct
+Team Stats,324,4011,640,6.3,20,9,224,209,302,2733,19,11,8.7,121,327,1278,13,3.9,77,71,569,26,120,45.8,15.8,Own 29.5,2:40,5.56,33.3,2.41
+Opp. Stats,217,3311,713,4.6,13,4,206,261,413,2312,16,9,5.1,128,264,999,7,3.8,55,82,647,23,121,30.6,9.9,Own 31.2,2:48,6.0,27.4,1.68
+Lg Rank Offense,3,7,,,31,31,13,,31,4,8,26,1,,2,16,7,26,,,,,,4,1,23,26,27,13,8
+Lg Rank Defense,7,7,,,11,23,11,,29,14,11,9,4,,6,4,4,3,,,,,,31,19,22,12,17,5,4

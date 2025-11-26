@@ -1,0 +1,4 @@
+header_empty_0,header_punt,ranker,name_display,age,pos,games,games_started,punt,punt_yds,punt_yds_per_punt,punt_ret_yds_opp,punt_net_yds,punt_net_yds_per_punt,punt_long,punt_tb,punt_tb_pct,punt_in_20,punt_in_20_pct
+1,Blake Gillikin,27,P,5,0,22,1138,51.7,99,999,45.4,63,2,9.1,8,36.4,0,
+2,Pat O'Donnell,34,P,5,0,12,506,42.2,15,471,36.2,49,1,8.3,3,25.0,1,
+3,Matt Haack,31,P,1,0,6,299,49.8,43,256,42.7,65,0,0.0,4,66.7,0,

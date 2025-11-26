@@ -1,0 +1,4 @@
+ranker,name_display,age,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+1,Jared Goff,31,QB,11,11,7-4-0,244,352,69.3,2769,23,6.5,5,1.4,136,49.9,64,7.9,8.53,11.3,251.7,108.5,54.8,23,147,6.13,6.99,7.62,1,2,
+2,David Montgomery,28,RB,11,0,,1,1,100.0,3,1,100.0,0,0.0,1,100.0,3,3.0,23.00,3.0,0.3,118.7,79.9,0,0,0.00,3.00,23.00,0,0,
+3,Kyle Allen,29,QB,3,0,,0,2,0.0,0,0,0.0,0,0.0,0,,,0.0,0.00,,0.0,39.6,4.8,0,0,0.00,0.00,0.00,0,0,

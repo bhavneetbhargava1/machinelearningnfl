@@ -240,17 +240,29 @@ def scrape_nfl_stats(team_code='sea', year=2025):
 
 
 if __name__ == '__main__':
-    # Scrape team data 2025 season
-    team_data = scrape_nfl_stats('sfo', 2025)
 
-    # Optional: Print summary of each table
-    if team_data:
-        print("\n" + "=" * 70)
-        print("SUMMARY OF SCRAPED TABLES:")
-        print("=" * 70)
-        for table_name, df in team_data.items():
-            print(f"\n{table_name}:")
-            print(f"  Shape: {df.shape}")
-            print(f"  Columns: {list(df.columns)}")
-            print(f"  Sample data:")
-            print(df.head(3).to_string(index=False))
+    NFL_TEAMS = [
+        'buf', 'mia', 'nwe', 'nyj', 'rav', 'cin', 'cle', 'pit',
+        'htc', 'clt', 'jax', 'oti', 'den', 'kan', 'rai', 'sdg',
+        'dal', 'nyg', 'phi', 'was', 'chi', 'det', 'gnb', 'min',
+        'atl', 'car', 'nor', 'tam', 'crd', 'ram', 'sfo', 'sea'
+    ]
+
+    for team_code in NFL_TEAMS:
+        # Scrape team data 2025 season
+        team_data = scrape_nfl_stats(team_code, 2025)
+
+        # Optional: Print summary of each table
+        if team_data:
+            print("\n" + "=" * 70)
+            print("SUMMARY OF SCRAPED TABLES:")
+            print("=" * 70)
+            for table_name, df in team_data.items():
+                print(f"\n{table_name}:")
+                print(f"  Shape: {df.shape}")
+                print(f"  Columns: {list(df.columns)}")
+                print(f"  Sample data:")
+                print(df.head(3).to_string(index=False))
+    print(f"\nPausing for 15 seconds before next team...")
+
+    time.sleep(15)

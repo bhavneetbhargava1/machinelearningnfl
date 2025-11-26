@@ -1,0 +1,2 @@
+ranker,name_display,age,pos,games,games_started,qb_rec,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_td,pass_td_pct,pass_int,pass_int_pct,pass_first_down,pass_success,pass_long,pass_yds_per_att,pass_adj_yds_per_att,pass_yds_per_cmp,pass_yds_per_g,pass_rating,qbr,pass_sacked,pass_sacked_yds,pass_sacked_pct,pass_net_yds_per_att,pass_adj_net_yds_per_att,comebacks,gwd,awards
+1,Jalen Hurts,27,QB,11,11,8-3-0,207,308,67.2,2284,17,5.5,1,0.3,101,43.6,79,7.4,8.37,11.0,207.6,106.0,58.8,27,159,8.06,6.34,7.22,1,1,
